@@ -1,0 +1,32 @@
+C:\Users\Alumnos\source\repos\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.exe
+C:\Users\Alumnos\source\repos\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.deps.json
+C:\Users\Alumnos\source\repos\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.runtimeconfig.json
+C:\Users\Alumnos\source\repos\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.dll
+C:\Users\Alumnos\source\repos\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.pdb
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.Form1.resources
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.AssemblyInfoInputs.cache
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.AssemblyInfo.cs
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.dll
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\refint\sumnumeros.dll
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.pdb
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.genruntimeconfig.cache
+C:\Users\Alumnos\source\repos\sumnumeros\obj\Debug\net7.0-windows\ref\sumnumeros.dll
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.exe
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.deps.json
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.dll
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\bin\Debug\net7.0-windows\sumnumeros.pdb
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.dll
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\refint\sumnumeros.dll
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.pdb
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\sumnumeros.genruntimeconfig.cache
+C:\Users\Admin\Documents\Visual Studio 18\Code Snippets\Visual C#\My Code Snippets\sumnumeros\obj\Debug\net7.0-windows\ref\sumnumeros.dll
