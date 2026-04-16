@@ -1,0 +1,20 @@
+C:\Users\Alumnos\source\repos\dimensionescilindro\bin\Debug\net7.0-windows\dimensionescilindro.exe
+C:\Users\Alumnos\source\repos\dimensionescilindro\bin\Debug\net7.0-windows\dimensionescilindro.deps.json
+C:\Users\Alumnos\source\repos\dimensionescilindro\bin\Debug\net7.0-windows\dimensionescilindro.runtimeconfig.json
+C:\Users\Alumnos\source\repos\dimensionescilindro\bin\Debug\net7.0-windows\dimensionescilindro.dll
+C:\Users\Alumnos\source\repos\dimensionescilindro\bin\Debug\net7.0-windows\dimensionescilindro.pdb
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.Form1.resources
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.AssemblyInfoInputs.cache
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.AssemblyInfo.cs
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.dll
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\refint\dimensionescilindro.dll
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.pdb
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.genruntimeconfig.cache
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\ref\dimensionescilindro.dll
+C:\Users\Alumnos\source\repos\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.Properties.Resources.resources
+C:\Users\Admin\Desktop\Visual Studio Alex\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.dll
+C:\Users\Admin\Desktop\Visual Studio Alex\dimensionescilindro\obj\Debug\net7.0-windows\refint\dimensionescilindro.dll
+C:\Users\Admin\Desktop\Visual Studio Alex\dimensionescilindro\obj\Debug\net7.0-windows\dimensionescilindro.pdb
